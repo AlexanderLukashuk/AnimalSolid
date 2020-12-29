@@ -1,0 +1,12 @@
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/bin/Debug/netcoreapp3.1/AnimalSolid.deps.json
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/bin/Debug/netcoreapp3.1/AnimalSolid.runtimeconfig.json
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/bin/Debug/netcoreapp3.1/AnimalSolid.runtimeconfig.dev.json
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/bin/Debug/netcoreapp3.1/AnimalSolid.dll
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/bin/Debug/netcoreapp3.1/AnimalSolid.pdb
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.csprojAssemblyReference.cache
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.AssemblyInfoInputs.cache
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.AssemblyInfo.cs
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.csproj.CoreCompileInputs.cache
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.dll
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.pdb
+/Users/sanya/paternsCsharp_study/homework/solidHomework/AnimalSolid/obj/Debug/netcoreapp3.1/AnimalSolid.genruntimeconfig.cache

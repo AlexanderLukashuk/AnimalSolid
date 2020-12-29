@@ -1,4 +1,6 @@
 ﻿using System;
+using AnimalSolid.Models;
+using AnimalSolid.Interfaces;
 
 namespace AnimalSolid
 {
@@ -6,7 +8,12 @@ namespace AnimalSolid
     {
         static void Main(string[] args)
         {
-            
+            Animal animal = new Cat();
+            animal.Eat();
+            animal.Move();
+            animal = new Dog();
+            animal.Eat();
+            animal.Move();
         }
     }
 }
